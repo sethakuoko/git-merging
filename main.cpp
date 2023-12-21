@@ -15,7 +15,7 @@ using std::vector;
 using std::pair;
 using std::stack;
 
-//version 1
+//version 2
 
 int main(){
 
